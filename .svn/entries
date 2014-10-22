@@ -1,14 +1,14 @@
 10
 
 dir
-299
+312
 https://lihongtao@192.168.6.116:9443/svn/MushroomBear/Product/trunk/%E7%95%8C%E9%9D%A2%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1/APP/%E5%88%B6%E4%BD%9C
 https://lihongtao@192.168.6.116:9443/svn/MushroomBear
 
 
 
-2014-10-17T11:03:47.173333Z
-299
+2014-10-19T11:13:44.207889Z
+311
 wangxiaomin
 
 
@@ -29,16 +29,19 @@ wangxiaomin
 个人中心切图
 dir
 
-首页标记（iOS，android）
-dir
-
 android
 dir
 
-朋友圈动态图片
+首页标记（iOS，android）
+dir
+
+首页推荐，观点切图
 dir
 
 写评论页面切图
+dir
+
+朋友圈动态图片
 dir
 
 ios
@@ -50,16 +53,22 @@ dir
 列表
 dir
 
+android 全套效果图
+dir
+
 android排序。筛选。搜索。写点评效果图
 dir
 
 老师头像方
 dir
 
+ios精品，观点，观点文章标记
+dir
+
 筛选，搜索页切图
 dir
 
-个人中心效果图(一)
+详情页切图
 dir
 
 兴趣班文字.txt
@@ -96,7 +105,7 @@ yangruofei
 
 608
 
-详情页切图
+个人中心效果图(一)
 dir
 
 幼儿园.txt
@@ -140,5 +149,8 @@ dir
 dir
 
 图片阴影
+dir
+
+推荐图文内容
 dir
 
